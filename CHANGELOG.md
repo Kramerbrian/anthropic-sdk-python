@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.67.1 (2025-09-12)
+
+Full Changelog: [v0.67.0...v0.67.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.67.0...v0.67.1)
+
+### Chores
+
+* **tests:** simplify `get_platform` test ([7596748](https://github.com/anthropics/anthropic-sdk-python/commit/7596748699ff3113b6cb6c1511cf4a33d0453233))
+
 ## 0.67.0 (2025-09-10)
 
 Full Changelog: [v0.66.0...v0.67.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.66.0...v0.67.0)
